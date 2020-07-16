@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "207026161474",
+    "firebase_url": "https://talkiee-f4589.firebaseio.com",
+    "project_id": "talkiee-f4589",
+    "storage_bucket": "talkiee-f4589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207026161474:android:55b03a4a68988dff8daadb",
+        "android_client_info": {
+          "package_name": "com.example.talkiee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207026161474-1evk4489njaudelusteobclhbons3kj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnwY4Qc929Jud1ZN8Vp6txkBAuca6XlwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207026161474-1evk4489njaudelusteobclhbons3kj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
